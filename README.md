@@ -1,8 +1,6 @@
 # Vaibhav Tukaram Sutar
 
-📧 **Email:** sutarvaibhav4518@gmail.com  
-🐙 **GitHub:** https://github.com/Clutchbeast15  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sutar-vaibhav  
+📧 **Email:** sutarvaibhav4518@gmail.com | 🐙[**GitHub**](https://github.com/Clutchbeast15) | 🔗 [**LinkedIn**]( https://www.linkedin.com/in/sutar-vaibhav)
 
 ---
 

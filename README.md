@@ -1,6 +1,13 @@
-# Vaibhav Tukaram Sutar
+<h1 align="center">Vaibhav Tukaram Sutar</h1>
 
- sutarvaibhav4518@gmail.com | 🐙[**GitHub**](https://github.com/Clutchbeast15) | 🔗 [**LinkedIn**]( https://www.linkedin.com/in/sutar-vaibhav) | 🐦 [**Twitter**](https://x.com/SutarVaibhav_15)
+ <p align="center">Aspiring Web3 Security Researcher | Auditing | EVM | Solidity | DeFi Security </p>
+
+  <p align="center">
+<b>📧 Email:</b> sutarvaibhav4518@gmail.com |
+🐙 <b><a href="https://github.com/Clutchbeast15">GitHub</a></b> |
+🔗 <b><a href="https://www.linkedin.com/in/sutar-vaibhav">LinkedIn</a></b> |
+🐦 <b><a href="https://x.com/SutarVaibhav_15">Twitter</a></b>
+</p>
 
 ---
 
@@ -59,12 +66,5 @@ Aspiring smart contract auditor with hands-on experience performing shadow audit
 
 ## 🎓 Education
 **Bachelor of Engineering (B.E.)**  Electronics and Telecommunication , Mumbai University . 
-
----
-
-## 📁 Additional Links
--    [**Secudoku Shadow Audits:**](https://github.com/clutchbeast15/Secudoku_Shadow_Audits)
-- 🔍 [**Cyfrin Updraft Security reports**](https://github.com/clutchbeast15/Updraft-Security-Portfolio)
-- 🧩 [**CTF Writeups**](https://github.com/clutchbeast15/Ethernaut__Solutions)
 
 ---

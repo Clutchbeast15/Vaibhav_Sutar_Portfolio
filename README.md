@@ -1,6 +1,6 @@
 # Vaibhav Tukaram Sutar
 
-📧 **Email:** sutarvaibhav4518@gmail.com | 🐙[**GitHub**](https://github.com/Clutchbeast15) | 🔗 [**LinkedIn**]( https://www.linkedin.com/in/sutar-vaibhav)
+📧 **Email:** sutarvaibhav4518@gmail.com | 🐙[**GitHub**](https://github.com/Clutchbeast15) | 🔗 [**LinkedIn**]( https://www.linkedin.com/in/sutar-vaibhav) | 🐦 [**Twitter**](https://x.com/SutarVaibhav_15)
 
 ---
 
@@ -46,7 +46,6 @@ Aspiring smart contract auditor with hands-on experience performing shadow audit
 
 ### **Local CTF Challenges**
 - Solved **15+ [Ethernaut levels**](https://github.com/clutchbeast15/Ethernaut__Solutions) ( documented on GitHub).  
-- Participated in other blockchain security CTFs.  
 - Improved exploit development and vulnerability analysis skills.
 
 ---
@@ -64,8 +63,8 @@ Aspiring smart contract auditor with hands-on experience performing shadow audit
 ---
 
 ## 📁 Additional Links
--    **Secudoku — Shadow Audits:**(https://github.com/clutchbeast15/Secudoku_Shadow_Audits)
-- 🔍 **Cyfrin Updraft — Security Course:**(https://github.com/clutchbeast15/Updraft-Security-Portfolio)
-- 🧩 **CTF Writeups:**(https://github.com/clutchbeast15/Ethernaut__Solutions)
+-    [**Secudoku — Shadow Audits:**](https://github.com/clutchbeast15/Secudoku_Shadow_Audits)
+- 🔍 [**Cyfrin Updraft — Security Course:**](https://github.com/clutchbeast15/Updraft-Security-Portfolio)
+- 🧩 [**CTF Writeups:**](https://github.com/clutchbeast15/Ethernaut__Solutions)
 
 ---

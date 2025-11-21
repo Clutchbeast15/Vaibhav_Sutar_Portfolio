@@ -52,7 +52,7 @@ Aspiring smart contract auditor with hands-on experience performing shadow audit
 ---
 
 ### **Local CTF Challenges**
-- Solved **15+ [Ethernaut levels**](https://github.com/clutchbeast15/Ethernaut__Solutions) ( documented on GitHub).  
+- Solved **15+** [**Ethernaut levels**](https://github.com/clutchbeast15/Ethernaut__Solutions) ( documented on GitHub).  
 - Improved exploit development and vulnerability analysis skills.
 
 ---

@@ -1,78 +1,234 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
-/* =========================
-   Golden Twilight Theme
-   ========================= */
+/* ================================
+   COLOR VARIABLES (YOUR PALETTE)
+   ================================ */
+:root {
+  --bg-dark: hsl(225 100% 3%);
+  --bg: hsl(215 96% 5%);
+  --bg-light: hsl(210 71% 9%);
+  --text: hsl(211 100% 97%);
+  --text-muted: hsl(211 61% 72%);
+  --highlight: hsl(210 40% 40%);
+  --border: hsl(210 54% 29%);
+  --border-muted: hsl(208 91% 17%);
+  --primary: hsl(210 77% 72%);
+  --secondary: hsl(32 61% 63%);
+  --danger: hsl(9 42% 65%);
+  --warning: hsl(51 29% 53%);
+  --success: hsl(148 27% 56%);
+  --info: hsl(217 46% 66%);
+}
 
-/* Background */
+/* ================================
+   GLOBAL RESET & BASE
+   ================================ */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  background-color: #000814; /* Ink Black */
-  color: #eaeaea;
-  font-family: "Inter", system-ui, sans-serif;
+  background-color: var(--bg-dark);
+  color: var(--text);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Ubuntu, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+  margin: 0;
 }
 
-/* Headings */
-h1, h2, h3, h4 {
-  color: #ffd60a; /* Gold */
+/* ================================
+   LAYOUT
+   ================================ */
+.wrapper,
+.container {
+  background: var(--bg);
+  border: 1px solid var(--border-muted);
+  border-radius: 8px;
 }
 
-/* Links */
-a {
-  color: #ffc300; /* School Bus Yellow */
-  text-decoration: none;
-}
-
-a:hover {
-  color: #ffd60a;
-  text-decoration: underline;
-}
-
-/* Header */
+/* ================================
+   HEADER
+   ================================ */
 header {
   background: linear-gradient(
     180deg,
-    #001d3d,
-    #000814
+    var(--bg-light),
+    var(--bg-dark)
   );
-  border-bottom: 2px solid #ffc300;
+  border-bottom: 2px solid var(--secondary);
 }
 
-/* Navigation */
+header h1 {
+  color: var(--primary);
+}
+
+header p {
+  color: var(--text-muted);
+}
+
+/* ================================
+   TYPOGRAPHY
+   ================================ */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary);
+  margin-top: 1.5em;
+}
+
+p {
+  color: var(--text);
+}
+
+small,
+.muted {
+  color: var(--text-muted);
+}
+
+/* ================================
+   LINKS
+   ================================ */
+a {
+  color: var(--secondary);
+  text-decoration: none;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+a:hover {
+  color: var(--primary);
+  text-shadow: 0 0 6px var(--highlight);
+}
+
+/* ================================
+   NAVIGATION
+   ================================ */
 nav a {
-  color: #ffd60a;
+  color: var(--primary);
 }
 
 nav a:hover {
-  color: #ffc300;
+  color: var(--secondary);
 }
 
-/* Section cards */
-section, article {
-  background-color: #001d3d; /* Prussian Blue */
-  border-left: 4px solid #ffc300;
-  padding: 1.2rem;
-  margin-bottom: 1.5rem;
-  border-radius: 6px;
+/* ================================
+   SECTIONS / CARDS
+   ================================ */
+section,
+article {
+  background: var(--bg-light);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--secondary);
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
 }
 
-/* Code blocks */
-pre, code {
-  background-color: #003566; /* Oxford Navy */
-  color: #ffd60a;
-  border-radius: 6px;
+/* ================================
+   LISTS
+   ================================ */
+ul, ol {
+  padding-left: 1.5rem;
 }
 
-/* Horizontal rule */
+li {
+  margin: 0.4rem 0;
+}
+
+/* ================================
+   HORIZONTAL RULE
+   ================================ */
 hr {
   border: none;
   height: 1px;
-  background: linear-gradient(to right, transparent, #ffc300, transparent);
+  margin: 2rem 0;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--border),
+    transparent
+  );
 }
 
-/* Footer */
+/* ================================
+   CODE BLOCKS
+   ================================ */
+pre {
+  background: var(--bg-dark);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  background: var(--bg-dark);
+  color: var(--secondary);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+}
+
+/* ================================
+   TABLES
+   ================================ */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+th {
+  background: var(--bg-light);
+  color: var(--primary);
+  border: 1px solid var(--border);
+  padding: 0.6rem;
+}
+
+td {
+  border: 1px solid var(--border-muted);
+  padding: 0.6rem;
+}
+
+/* ================================
+   BLOCKQUOTES
+   ================================ */
+blockquote {
+  background: var(--bg);
+  border-left: 4px solid var(--highlight);
+  padding: 1rem;
+  color: var(--text-muted);
+  margin: 1.5rem 0;
+}
+
+/* ================================
+   STATUS COLORS
+   ================================ */
+.success {
+  color: var(--success);
+}
+
+.warning {
+  color: var(--warning);
+}
+
+.danger {
+  color: var(--danger);
+}
+
+.info {
+  color: var(--info);
+}
+
+/* ================================
+   FOOTER
+   ================================ */
 footer {
-  color: #9ca3af;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border-muted);
+  margin-top: 3rem;
+  padding-top: 1rem;
+  text-align: center;
 }

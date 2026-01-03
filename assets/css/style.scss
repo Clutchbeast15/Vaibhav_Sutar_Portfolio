@@ -232,3 +232,37 @@ footer {
   padding-top: 1rem;
   text-align: center;
 }
+
+/* ================================
+   FIX EXTRA SIDE SPACE (FULL WIDTH)
+   ================================ */
+
+/* Main wrapper used by midnight theme */
+.wrapper {
+  max-width: 1200px;   /* increase content width */
+  width: 92%;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Prevent background overflow illusion */
+body {
+  overflow-x: hidden;
+}
+
+/* Make header & footer align with content */
+header,
+footer {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* Improve readability on very large screens */
+@media (min-width: 1600px) {
+  .wrapper {
+    max-width: 1400px;
+  }
+}
+
+

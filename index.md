@@ -30,14 +30,14 @@ Aspiring smart contract auditor with hands-on experience performing shadow audit
 
 ## 💼 Experience
 
-### Secudoku — Shadow Audits
+### [**Secudoku — Shadow Audits**](https://github.com/clutchbeast15/Secudoku_Shadow_Audits)
 - Shadow audits on **3 real-world projects**
 - Found **25 security issues**
 
 
 ---
 
-### Cyfrin Updraft — Security Course
+### [**Cyfrin Updraft — Security Course**](https://github.com/clutchbeast15/Updraft-Security-Portfolio)
 - Hands-on smart contract security training
 - Focused on Solidity, EVM, Foundry
 - Wrote structured audit findings & PoCs

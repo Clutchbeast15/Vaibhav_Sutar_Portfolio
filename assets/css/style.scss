@@ -92,3 +92,24 @@ ol {
     font-size: 2.2rem;
   }
 }
+/* ================================
+   FADE-IN ANIMATION
+   ================================ */
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Apply to sections */
+section,
+article {
+  animation: fadeUp 0.7s ease-out both;
+}
+

@@ -1,0 +1,78 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* =========================
+   Golden Twilight Theme
+   ========================= */
+
+/* Background */
+body {
+  background-color: #000814; /* Ink Black */
+  color: #eaeaea;
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #ffd60a; /* Gold */
+}
+
+/* Links */
+a {
+  color: #ffc300; /* School Bus Yellow */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffd60a;
+  text-decoration: underline;
+}
+
+/* Header */
+header {
+  background: linear-gradient(
+    180deg,
+    #001d3d,
+    #000814
+  );
+  border-bottom: 2px solid #ffc300;
+}
+
+/* Navigation */
+nav a {
+  color: #ffd60a;
+}
+
+nav a:hover {
+  color: #ffc300;
+}
+
+/* Section cards */
+section, article {
+  background-color: #001d3d; /* Prussian Blue */
+  border-left: 4px solid #ffc300;
+  padding: 1.2rem;
+  margin-bottom: 1.5rem;
+  border-radius: 6px;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #003566; /* Oxford Navy */
+  color: #ffd60a;
+  border-radius: 6px;
+}
+
+/* Horizontal rule */
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #ffc300, transparent);
+}
+
+/* Footer */
+footer {
+  color: #9ca3af;
+}

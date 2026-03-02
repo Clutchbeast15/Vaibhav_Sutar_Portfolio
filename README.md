@@ -1,17 +1,15 @@
 <style>
   .site-footer,
-  footer,
+  footer.site-footer,
   .footer,
   small,
+  p.view,
   p:contains("Hosted on GitHub Pages"),
   p:contains("Theme by"),
   p:contains("Project maintained by"),
-  h1:contains("Vaibhav Sutar Portfolio"),
-  h2:contains("Vaibhav Sutar Portfolio"),
-  p:contains("Vaibhav Tukaram Sutar"),
-  .project-maintained-by,
-  .credits,
-  .owner {
+  p:contains("maintained by Clutchbeast15"),
+  h1:contains("Vaibhav_Sutar_Portfolio"),
+  .project-maintained-by {
     display: none !important;
   }
 </style>

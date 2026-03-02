@@ -1,7 +1,7 @@
 <h1 align="center">Vaibhav Tukaram Sutar</h1>
 
 <p align="center">
-Smart Contract Security Researcher | DeFi Security | EVM | Solidity
+Solidity | Yul | EVM | Defi Security
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Smart Contract Security Researcher | DeFi Security | EVM | Solidity
 ---
 
 ## 🧑‍💻 Summary
-Security-focused smart contract researcher with hands-on experience in DeFi auditing, CTF-based exploit development, and low-level EVM/Yul challenges. Skilled in identifying vulnerabilities, writing structured reports, and developing proof-of-concept exploits. Strong interest in cryptography, zero-knowledge proofs, and advanced blockchain security.
+Security-focused smart contract researcher with hands-on experience in DeFi auditing, CTF-based exploit development, and low-level EVM/Yul challenges. Skilled in identifying vulnerabilities, writing structured reports. Strong interest in cryptography, zero-knowledge proofs, and advanced blockchain security.
 
 ---
 

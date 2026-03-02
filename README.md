@@ -15,6 +15,7 @@
     display: none !important;
   }
 </style>
+
 <h1 align="center">Vaibhav Tukaram Sutar</h1>
 
 <p align="center">

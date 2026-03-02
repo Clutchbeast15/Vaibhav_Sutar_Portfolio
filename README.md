@@ -65,7 +65,7 @@ Security-focused smart contract researcher with hands-on experience in DeFi audi
   
 ---
 
-### [**Cyfrin Updraft Smart Contract Security Training**](https://github.com/clutchbeast15/Updraft-Security-Portfolio)
+### **Cyfrin Updraft Smart Contract Security Training**
 - Hands-on training in **Solidity security, EVM internals, and auditing workflows**  
 - Developed **PoCs, exploit scenarios, and vulnerability reports**  
 - Practiced severity classification and real-world audit methodology  

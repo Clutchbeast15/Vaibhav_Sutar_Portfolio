@@ -2,6 +2,11 @@
   .site-footer,
   footer.site-footer,
   .footer,
+  .site-footer-owner,
+  .site-footer-credits,
+  .page-header,
+  .project-name,
+  .project-tagline,
   small,
   p.view,
   p:contains("Hosted on GitHub Pages"),
@@ -98,4 +103,4 @@ Security-focused smart contract researcher with hands-on experience in DeFi audi
 
 ## 🎓 Education
 **Bachelor of Engineering (B.E.)**  
-Electronics and Telecommunication — Mumbai University  
+Electronics and Telecommunication — Mumbai University

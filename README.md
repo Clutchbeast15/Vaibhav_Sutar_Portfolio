@@ -1,3 +1,20 @@
+<style>
+  .site-footer,
+  footer,
+  .footer,
+  small,
+  p:contains("Hosted on GitHub Pages"),
+  p:contains("Theme by"),
+  p:contains("Project maintained by"),
+  h1:contains("Vaibhav Sutar Portfolio"),
+  h2:contains("Vaibhav Sutar Portfolio"),
+  p:contains("Vaibhav Tukaram Sutar"),
+  .project-maintained-by,
+  .credits,
+  .owner {
+    display: none !important;
+  }
+</style>
 <h1 align="center">Vaibhav Tukaram Sutar</h1>
 
 <p align="center">

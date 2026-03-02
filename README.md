@@ -1,8 +1,10 @@
 <h1 align="center">Vaibhav Tukaram Sutar</h1>
 
- <p align="center">Aspiring Web3 Security Researcher | Auditing | EVM | Solidity | DeFi Security </p>
+<p align="center">
+Smart Contract Security Researcher | DeFi Security | EVM | Solidity
+</p>
 
-  <p align="center">
+<p align="center">
 <b>📧 Email:</b> sutarvaibhav4518@gmail.com |
 🐙 <b><a href="https://github.com/Clutchbeast15">GitHub</a></b> |
 🔗 <b><a href="https://www.linkedin.com/in/sutar-vaibhav">LinkedIn</a></b> |
@@ -11,60 +13,73 @@
 
 ---
 
-## 🧑‍💻 Professional Summary
-Aspiring smart contract auditor with hands-on experience performing shadow audits on real-world DeFi protocols. Skilled in identifying vulnerabilities and writing structured security reports. Actively learning new attack vectors with a strong interest in EVM internals, smart contract auditing, blockchain security, and mathematics.
+## 🧑‍💻 Summary
+Security-focused smart contract researcher with hands-on experience in DeFi auditing, CTF-based exploit development, and low-level EVM/Yul challenges. Skilled in identifying vulnerabilities, writing structured reports, and developing proof-of-concept exploits. Strong interest in cryptography, zero-knowledge proofs, and advanced blockchain security.
 
 ---
 
 ## 🛠 Technical Skills
 
-### **Languages & Frameworks**
+### **Programming & Frameworks**
 - Solidity  
+- Yul  
 - Foundry  
 
-### **Auditing Tools**
+### **Security & Analysis Tools**
 - Slither  
 - Aderyn  
-- Solidity Visual Developer  
-- Solidity Metrics  
 
-### **Other Skills**
+### **Core Knowledge**
+- EVM Internals  
+- DeFi Vulnerabilities  
+- Smart Contract Auditing  
+
+### **Other**
 - Git & GitHub  
-- Technical report writing  
+- Technical Audit Report Writing  
 - VS Code  
 
 ---
 
 ## 💼 Experience
 
-### [**Secudoku — Shadow Audits**](https://github.com/clutchbeast15/Secudoku_Shadow_Audits)
-- Performed shadow audits on **3 real-world projects** on the Secudoku platform.  
-- Uncovered **25 security issues**.  
-- Achieved **#2 leaderboard ranking**.
+### [**Secudoku Shadow Auditor**](https://github.com/clutchbeast15/Secudoku_Shadow_Audits)
+- Performed security reviews on **3 real-world DeFi protocols**  
+- Identified **25 vulnerabilities** with detailed reports and mitigations
+  
+---
+
+### [**Cyfrin Updraft Smart Contract Security Training**](https://github.com/clutchbeast15/Updraft-Security-Portfolio)
+- Hands-on training in **Solidity security, EVM internals, and auditing workflows**  
+- Developed **PoCs, exploit scenarios, and vulnerability reports**  
+- Practiced severity classification and real-world audit methodology  
 
 ---
 
-### [**Cyfrin Updraft — Security Course**](https://github.com/clutchbeast15/Updraft-Security-Portfolio)
-- Hands-on smart contract security training focused on Solidity, EVM fundamentals, and auditing techniques using Foundry.  
-- Practiced writing vulnerability findings, severity classifications, and PoCs.  
-- Strengthened understanding of common smart contract vulnerabilities.
+## 🧪 CTF Challenges & Vulnerability Research 
 
----
+### [**Capture The Ether Solutions**](https://github.com/Clutchbeast15/Capture_The_Ether_Solution)
+- Solved and documented smart contract security challenges using Foundry  
+- Focused on exploit development and vulnerability understanding  
 
-### **Local CTF Challenges**
-- Solved **15+** [**Ethernaut levels**](https://github.com/clutchbeast15/Ethernaut__Solutions) ( documented on GitHub).  
-- Improved exploit development and vulnerability analysis skills.
+### [**Damn Vulnerable DeFi Solutions**](https://github.com/Clutchbeast15/Damm_Vulnerable_Defi_Solutions)
+- Implemented real-world DeFi attack scenarios and exploits  
+
+### [**Ethernaut Solutions**](https://github.com/Clutchbeast15/EtherNaut__Solutions)
+-  Solved and documented smart contract security challenges using Foundry  
+
+### [**Yul Puzzles**](https://github.com/Clutchbeast15/Yul_Puzzels)
+- Solved low-level EVM/Yul challenges to deepen understanding of execution internals  
 
 ---
 
 ## 🎓 Certifications
 - Smart Contract Security — Cyfrin Updraft  
-- Solidity Smart Contract Development — Cyfrin Updraft  
+- Fundamentals of Zero Knowledge Proof — Cyfrin Updraft  
 - Blockchain Basics — Chainlink  
 
 ---
 
 ## 🎓 Education
-**Bachelor of Engineering (B.E.)**  Electronics and Telecommunication , Mumbai University . 
-
----
+**Bachelor of Engineering (B.E.)**  
+Electronics and Telecommunication — Mumbai University  
